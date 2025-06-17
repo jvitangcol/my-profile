@@ -2,7 +2,7 @@
 
 _This website acts as a dynamic platform that highlights my skills, personal experiences, and various projects, as well as provides links to my social media profiles. My first project was an immersive exploration of web development, during which I focused on the foundational principles and refined my abilities in the field._
 
-It's essential for my website to be fully responsive across all devices and to seamlessly adapt to various color schemes, ensuring an optimal user experience for everyone.
+_It's essential for my website to be fully responsive across all devices and to seamlessly adapt to various color schemes, ensuring an optimal user experience for everyone._
 
 ---
 
