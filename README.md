@@ -12,7 +12,7 @@ It's essential for my website to be fully responsive across all devices and to s
 
 ---
 
-## ✨ Features
+## ✨ Feature
 
 - ✅ Responsive design
 
