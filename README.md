@@ -32,15 +32,15 @@ src/
 │   └── photos...
 ├── components/
 │   └── ui/
-|   |   └── about.css
-|   |   └── contact.css
-|   |   └── footer.css
-|   |   └── header.css
-|   |   └── hero.css
-|   |   └── work.css
-|   └── utils/
-|       └── global.css
-|       └── utils.css 
+│   │   └── about.css
+│   │   └── contact.css
+│   │   └── footer.css
+│   │   └── header.css
+│   │   └── hero.css
+│   │   └── work.css
+│   └── utils/
+│       └── global.css
+│       └── utils.css 
 ├── index.html
 ```
 
